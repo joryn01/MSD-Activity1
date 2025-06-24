@@ -7,7 +7,7 @@ export default function Index() {
       <Text style={styles.text1}>COLLEGE OF COMPUTING AND INFORMATION SCIENCES</Text>
       <Image source={require('@/assets/images/ccis.png')} style={styles.image1} />
       <Text style={styles.footerTxt1}>Developed by</Text>
-      <Text style={styles.footerTxt2}>Benedict Joseph A. Licong</Text>
+      <Text style={styles.footerTxt2}>Joryn M. Cagulangan</Text>
 
     </View>
   );
